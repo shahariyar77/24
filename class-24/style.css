@@ -1,0 +1,117 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+.main-manu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+.main-manu li {
+  display: inline-block;
+}
+.main-manu li a {
+  display: block;
+  padding: 23px;
+  padding-right: 0;
+  font-size: 16px;
+}
+.logo {
+  padding: 28px;
+  padding-top: 0;
+  margin-top: 0;
+}
+.logo img {
+  height: 120px;
+  width: 152px;
+}
+.single-slides-item {
+  background: #263238;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.main-manu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+.main-manu li {
+  display: inline-block;
+}
+.main-manu li a {
+	display: block;
+	padding: 25px;
+	padding-right: 0;
+	font-size: 16px;
+	padding-left: 40px;
+}
+.logo {
+  padding: 28px;
+  padding-top: 0;
+  margin-top: 0;
+}
+.logo img {
+	max-height: 80px;
+}
+.single-slides-item {
+  background: #263238;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+}
+.single-slides-item h2 {
+	font-size: 40px;
+	color: #e3aa34;
+	font-weight: 300;
+	line-height: 56px;
+}
+
+.single-slides-item img {
+	position: absolute;
+	right: 138px;
+	bottom: 0;
+	max-height: 473px;
+	width: auto;
+}
+.slide-text {
+	padding: 112px 0;
+	padding-top: 150px;
+}
+.single-slides-item .row {
+	position: relative;
+}
+
+.header-area {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	padding: 7px 0;
+	z-index: 9;
+}
+a.boder-btn {
+	border: 1px solid;
+	color: #fff;
+	padding: 10px 30px;
+	border-radius: 5px;
+	margin-top: 10px;
+	display: inline-block;
+}
+.owl-carousel .owl-item img {
+	display: block;
+	width: 26%;
+	-webkit-transform-style: preserve-3d;
+}
+
